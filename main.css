@@ -1,19 +1,13 @@
 body {
-  background-color:grey;
+  background-image: url('http://cdn1.bestpsdfreebies.com/wp-content/uploads/2014/05/Part-2-Background-16-without-Glare.jpg');
   font-family: arial;
   font-size: 16px;
 }
 
 a {
-  color: blue;
-}
-
-a:hover {
-  color: red;
+  text-decoration: none;
 }
 
 p {
-  background: #555;
-  color: white;
   padding: 10px 10px 0px 0px;
 }
