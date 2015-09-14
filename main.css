@@ -4,16 +4,16 @@ body {
   font-size: 16px;
 }
 
-h1,h2,li {
-color: #777;
+a {
+  color: blue;
 }
 
-a {
-color: blue;
+a:hover {
+  color: red;
 }
 
 p {
-background: #555;
-color: white;
-padding: 10px 10px 0px 0px;
+  background: #555;
+  color: white;
+  padding: 10px 10px 0px 0px;
 }
